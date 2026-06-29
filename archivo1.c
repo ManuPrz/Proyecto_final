@@ -3,7 +3,7 @@
 int main() {
 
     printf("Hola mundo");
-    printf("Prueba de enlace con Github");
+    printf("Prueba de exitosa");
 
     return 0;
 }
